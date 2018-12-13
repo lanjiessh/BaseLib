@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33b7ce</color>
+    <color name="colorPrimaryDark">#2b9caf</color>
+
+    <color name="textGray1">#434343</color>
+    <color name="textGray2">#868686</color>
+    <color name="textGray3">#bcbcbc</color>
+    <color name="textGray4">#e3e3e3</color>
+
+    <color name="bgPage">#faf9f9</color>
+    <color name="divider">#ededed</color>
+    <color name="dividerDark">#d8d8d8</color>
+    <color name="dividerTitle">#e8e8e8</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent1">#50000000</color>
+    <color name="bg_sidebar">#20000000</color>
+    <color name="bgContent">#daffffff</color>
+
+    <!--灰色-->
+    <color name="gray">#666666</color>
+    <!--深灰色-->
+    <color name="grayDark">#4c4c4c</color>
+    <color name="red">#e34040</color>
+    <color name="lightBlue">#9ddee9</color>
+    <color name="bgTaskNotice">#b0f4ecc3</color>
+
+    <color name="pink">#F7597B</color>
+    <color name="green">#4ec15a</color>
+    <color name="white">#ffffff</color>
+
+    <color name="gray_white">#FF777777</color>
+    <color name="bt_blue_back">#33B7CF</color>
+    <color name="gray_white1">#FFEEEEEE</color>
+    <color name="dialog_background">#7f000000</color>
+    <color name="dialog_text">#252A34</color>
+    <color name="dialog_content_text">#727080</color>
+
+    <color name="password_input_border_not_focused">#727272</color>
+    <color name="password_input_border_focused">@color/colorPrimary</color>
+
+    <!--线颜色-->
+    <color name="line_light_gray">#FFD8D8D8</color>
+
+    <!--字体颜色-->
+    <color name="text_light_brown">#FF2C2B32</color>
+    <color name="text_light_blue">#FF33B7CF</color>
+    <color name="text_light_gray">#FF92A1A7</color>
+    <color name="text_light_blue1">#FF3ABDD5</color>
+    <color name="text_light_blue2">#33B7CF</color>
+
+    <!--线颜色-->
+    <color name="line_gray">#4D4D4D</color>
+
+    <color name="qr_gray">#979797</color>
+
+</resources>
